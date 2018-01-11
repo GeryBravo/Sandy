@@ -6,3 +6,5 @@ android:
     - tools
 
     - android-26
+before_install:
+  - chmod +x gradlew
