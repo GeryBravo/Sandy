@@ -2,4 +2,6 @@
     <string name="app_name">Sandy</string>
     <string name="label_play_anim">Lottie is cool</string>
     <string name="label_hello">Hello Travis!</string>
+    <string name="hint_user_name">User name…</string>
+    <string name="label_submit">Submit</string>
 </resources>
